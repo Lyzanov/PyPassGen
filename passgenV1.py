@@ -1,4 +1,4 @@
-#!/home/lyzanov/.passgen/.venv/bin/python3
+#!/usr/bin/env python3
 
 from math import log2
 import secrets
